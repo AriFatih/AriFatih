@@ -1,11 +1,9 @@
-### Hi there 👋
+### Hi there 👋, 
 
-<!--
-**AriFatih/AriFatih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Fatih Ari from Switzerland, and I work with data. I really enjoy learning about Machine Learning and Data Engineering.
 
-Here are some ideas to get you started:
+## Skills and Experience
+* Python
+* SQL
+* Tableau
 
-- 🔭 I’m currently working on data pipelines.
-- 🌱 I’m currently learning spark and hadoop.
-
--->
